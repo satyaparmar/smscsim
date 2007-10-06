@@ -1,5 +1,5 @@
 #labels Phase-Requirements,Phase-Implementation,Phase-Support,Phase-Design,Phase-Deploy
-#Getting Support for SMSC Simulator
+Getting Support for SMSC Simulator
 
 There is a discussion group for SMSC Simulator that you can see for any detailed issues and resolution: http://groups.google.com/group/smslib . 
 
