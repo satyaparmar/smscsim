@@ -1,4 +1,4 @@
-#Features of all versions of SMSC Simulator.
+Features of all versions of SMSC Simulator.
 
 = Introduction =
 
