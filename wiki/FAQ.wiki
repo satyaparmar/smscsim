@@ -1,4 +1,0 @@
-#labels Phase-Implementation,Phase-Support,Phase-Requirements
-#frequently asked questions.
-
-FAQs are here - if you have any questions; please post to us!
