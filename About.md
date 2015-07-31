@@ -1,0 +1,1 @@
+General description about SMSC Simulator.
